@@ -19,7 +19,7 @@
 
     
     
-    
+    NSLog(@"1");
 }
 
 - (void)didReceiveMemoryWarning {
