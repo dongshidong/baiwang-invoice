@@ -20,6 +20,7 @@
     NSLog(@"wo aini");
     //
       NSLog(@"wo aini");  NSLog(@"wo aini");
+     NSLog(@"wo aini");  NSLog(@"wo aini");
     
 }
 
